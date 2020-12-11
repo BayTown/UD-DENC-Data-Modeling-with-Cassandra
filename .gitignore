@@ -1,0 +1,6 @@
+# Exclude Jupyter checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Exclue misc
+.vscode
